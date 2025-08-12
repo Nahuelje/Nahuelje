@@ -1,8 +1,11 @@
-### Hola 👋 Soy NahuelJesus
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
+### Hola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="24px"> Soy NahuelJesus 
 :house_with_garden: Soy de Argentina, Misiones.<br>
 :computer: Soy Desarrollador java y estudiante en Analista en Sistemas.<br>
-:globe_with_meridians: Link de mi portafolio web <br>
-https://portafolionexus.netlify.app/<br>
+:globe_with_meridians: Mi portafolio **(https://portafolionexus.netlify.app/)** <br>
 
 
 ### Skill-set
