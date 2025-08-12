@@ -1,12 +1,35 @@
+
+<h1 align="center">
+Hi, I'm Nahuel Jesus!
+	<a href="https://github.com/Nahuelje" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+	<a href="https://github.com/Nahuelje">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Nahuelje">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Nahuelje">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Analyst+Student;Full+Stack+Java+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
 </p>
 
-### Hola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="24px"> Soy NahuelJesus 
-:house_with_garden: Soy de Argentina, Misiones.<br>
-:computer: Soy Desarrollador java y estudiante en Analista en Sistemas.<br>
-:globe_with_meridians: Mi portafolio **(https://portafolionexus.netlify.app/)** <br>
+<hr>
 
+<pre>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🌟 Main languages: Python, Java, C#, Javascript
+🚩 Interested in Full Stack Machine Learning Application development
+🌎 I'm from Argentina, Misiones
+</pre>
+<hr>
 
 ### Skill-set
 <p align="center">
