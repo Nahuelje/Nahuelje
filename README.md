@@ -28,6 +28,7 @@ Hi, I'm Nahuel Jesus!
 🌟 Main languages: Python, Java, C#, Javascript
 🚩 Interested in Full Stack Machine Learning Application development
 🌎 I'm from Argentina, Misiones
+✏️ I am passionate about learning robotics and creating projects with Arduinos.
 </pre>
 <hr>
 
