@@ -1,6 +1,6 @@
 ### Hola 👋 Soy NahuelJesus
 :house_with_garden: Soy de Argentina, Misiones.<br>
-:computer: Soy Desarrollador java y estudiante en Analista de Sistemas.<br>
+:computer: Soy Desarrollador java y estudiante en Analista en Sistemas.<br>
 
 ### Skill-set
 <p align="center">
