@@ -39,9 +39,7 @@ Hi, I'm Nahuel Jesus!
 
 ### Github States
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahuelje&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuelje&exclude_repo=klee1611.github.io&layout=compact&theme=apprentice" alt="Top langs">
+
 </p>
 
 ### Interests
