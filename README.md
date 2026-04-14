@@ -25,7 +25,7 @@ Hi, I'm Nahuel Jesus!
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🌟 Main languages: Python, Java, C#, Javascript
+🌟 Main languages: Python, Java, C#, Javascript, React, Typescript, Sql, Css, SpringBot
 🚩 Interested in Full Stack Machine Learning Application development
 🌎 I'm from Argentina, Misiones
 ✏️ I am passionate about learning robotics and creating projects with Arduinos.
