@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/header.svg" alt="Nahuel Jesus - Full Stack and Machine Learning Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/header.svg" alt="Nahuel Jesus - Java Developer" width="100%" />
 </p>
 
 <!-- Terminal animada: el archivo vive en este mismo repositorio -->
