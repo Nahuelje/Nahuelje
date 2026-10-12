@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="460" viewBox="0 0 860 460" role="img" aria-labelledby="t d">
   <title id="t">Terminal de Nahuel Jesus</title>
-  <desc id="d">Animación de una terminal que ejecuta whoami, cat status.txt, ls ~/stack y git log, mostrando que es desarrollador Full Stack y de Machine Learning freelancer en Argentina.</desc>
+  <desc id="d">Animación de una terminal que ejecuta whoami, cat status.txt, ls ~/stack y git log, mostrando que es desarrollador web Java freelancer en Argentina.</desc>
   <style>
   text { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", "Fira Code", Consolas, "Courier New", monospace; font-size: 16px; }
   .cubre { transform-box: fill-box; transform-origin: 100% 50%; animation-duration: 22s; animation-iteration-count: infinite; animation-timing-function: linear; }
@@ -23,8 +23,8 @@
     97%, 100% { fill-opacity: 0; }
   }
   @keyframes c1 {
-    0%, 9.091% { transform: scaleX(1); animation-timing-function: steps(54, end); }
-    15.909%, 96.9% { transform: scaleX(0); }
+    0%, 9.091% { transform: scaleX(1); animation-timing-function: steps(33, end); }
+    14.545%, 96.9% { transform: scaleX(0); }
     97%, 100% { transform: scaleX(1); }
   }
   #c1 { animation-name: c1; }
@@ -93,8 +93,8 @@
     <text x="430" y="28" text-anchor="middle" fill="#8b949e" style="font-size:13px">nahuelje@github: ~/README.md</text>
     <text x="30" y="96"><tspan class="pr" style="animation-name:p0" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </tspan><tspan fill="#e6edf3" textLength="57.6" lengthAdjust="spacing">whoami</tspan></text>
 <rect id="c0" class="cubre" x="212.4" y="76" width="64" height="28" fill="#0d1117"/>
-<text x="30" y="136" fill="#e6edf3" textLength="518.4" lengthAdjust="spacing">Nahuel Jesus - Full Stack &amp; Machine Learning Developer</text>
-<rect id="c1" class="cubre" x="30.0" y="116" width="525" height="28" fill="#0d1117"/>
+<text x="30" y="136" fill="#e6edf3" textLength="316.8" lengthAdjust="spacing">Nahuel Jesus - Java Web Developer</text>
+<rect id="c1" class="cubre" x="30.0" y="116" width="323" height="28" fill="#0d1117"/>
 <text x="30" y="176"><tspan class="pr" style="animation-name:p2" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </tspan><tspan fill="#e6edf3" textLength="134.4" lengthAdjust="spacing">cat status.txt</tspan></text>
 <rect id="c2" class="cubre" x="212.4" y="156" width="141" height="28" fill="#0d1117"/>
 <text x="30" y="216" fill="#58a6ff" textLength="624.0" lengthAdjust="spacing">Freelancer | Argentina, Misiones | learning robotics with Arduino</text>
