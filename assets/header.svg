@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="t d">
   <title id="t">Nahuel Jesus</title>
-  <desc id="d">Full Stack and Machine Learning Developer</desc>
+  <desc id="d">Java Web Developer</desc>
   <style>
   .t { font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
   .ola { animation-timing-function: linear; animation-iteration-count: infinite; }
@@ -26,5 +26,5 @@
     <path class="ola c" fill="#0d1117" fill-opacity="0.18" d="M-250,142 q62.5,-22 125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 t125,0 V190 H-250 Z"/>
   </g>
   <text class="t titulo" x="500" y="86" text-anchor="middle" font-size="48" font-weight="700" fill="#ffffff" stroke="#0d1117" stroke-opacity="0.35" stroke-width="3" paint-order="stroke">Nahuel Jesus</text>
-  <text class="t sub" x="500" y="122" text-anchor="middle" font-size="18" fill="#e6edf3">Full Stack &amp; Machine Learning Developer</text>
+  <text class="t sub" x="500" y="122" text-anchor="middle" font-size="18" fill="#e6edf3">Java Web Developer</text>
 </svg>
