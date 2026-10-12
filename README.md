@@ -1,11 +1,11 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/header.svg" alt="Nahuel Jesus - Java Web Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/68bd7f52233b610619b3dd34e839aa26dc8b0ec6/assets/header.svg" alt="Nahuel Jesus - Java Web Developer" width="100%" />
 </p>
 
 <!-- Terminal animada: el archivo vive en este mismo repositorio -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/terminal.svg" alt="Terminal animada: whoami, cat status.txt, ls ~/stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/68bd7f52233b610619b3dd34e839aa26dc8b0ec6/assets/terminal.svg" alt="Terminal animada: whoami, cat status.txt, ls ~/stack" width="100%" />
 </p>
 
 <!-- Roles rotativos -->
@@ -84,5 +84,5 @@ learning:   Robotics and building projects with Arduinos
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/footer.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/68bd7f52233b610619b3dd34e839aa26dc8b0ec6/assets/footer.svg" alt="" width="100%" />
 </p>
