@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:0e75b6,100:00ff9c&section=header&text=Nahuel%20Jesus&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Machine%20Learning%20Developer&descAlignY=60&descSize=16" alt="Nahuel Jesus - Full Stack and Machine Learning Developer" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/header.svg" alt="Nahuel Jesus - Full Stack and Machine Learning Developer" width="100%" />
 </p>
 
 <!-- Terminal animada: el archivo vive en este mismo repositorio -->
@@ -84,5 +84,5 @@ learning:   Robotics and building projects with Arduinos
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff9c,50:0e75b6,100:0d1117&section=footer&reversal=true" alt="" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/footer.svg" alt="" width="100%" />
 </p>
