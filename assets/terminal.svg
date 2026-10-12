@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="460" viewBox="0 0 860 460" role="img" aria-labelledby="t d">
+  <title id="t">Terminal de Nahuel Jesus</title>
+  <desc id="d">Animación de una terminal que ejecuta whoami, cat status.txt, ls ~/stack y git log, mostrando que es desarrollador Full Stack y de Machine Learning freelancer en Argentina.</desc>
+  <style>
+  text { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", "Fira Code", Consolas, "Courier New", monospace; font-size: 16px; }
+  .cubre { transform-box: fill-box; transform-origin: 100% 50%; animation-duration: 22s; animation-iteration-count: infinite; animation-timing-function: linear; }
+  .pr { animation-duration: 22s; animation-iteration-count: infinite; animation-timing-function: step-end; fill-opacity: 0; }
+  .cursor { animation: parpadeo 1s steps(1) infinite; }
+  .cursor-bloque { opacity: 0; animation: aparece 22s infinite; }
+  @keyframes parpadeo { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  @keyframes aparece { 0%, 73.636% { opacity: 0; } 73.646%, 96.9% { opacity: 1; } 97%, 100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .cubre { animation: none; transform: scaleX(0); } .pr { animation: none; fill-opacity: 1; } .cursor { animation: none; } .cursor-bloque { animation: none; opacity: 1; } }
+
+  @keyframes c0 {
+    0%, 2.727% { transform: scaleX(1); animation-timing-function: steps(6, end); }
+    7.273%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c0 { animation-name: c0; }
+  @keyframes p0 {
+    0%, 2.717% { fill-opacity: 0; }
+    2.727%, 96.9% { fill-opacity: 1; }
+    97%, 100% { fill-opacity: 0; }
+  }
+  @keyframes c1 {
+    0%, 9.091% { transform: scaleX(1); animation-timing-function: steps(54, end); }
+    15.909%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c1 { animation-name: c1; }
+  @keyframes c2 {
+    0%, 19.091% { transform: scaleX(1); animation-timing-function: steps(14, end); }
+    24.545%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c2 { animation-name: c2; }
+  @keyframes p2 {
+    0%, 19.081% { fill-opacity: 0; }
+    19.091%, 96.9% { fill-opacity: 1; }
+    97%, 100% { fill-opacity: 0; }
+  }
+  @keyframes c3 {
+    0%, 26.364% { transform: scaleX(1); animation-timing-function: steps(65, end); }
+    33.636%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c3 { animation-name: c3; }
+  @keyframes c4 {
+    0%, 36.364% { transform: scaleX(1); animation-timing-function: steps(10, end); }
+    40.909%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c4 { animation-name: c4; }
+  @keyframes p4 {
+    0%, 36.354% { fill-opacity: 0; }
+    36.364%, 96.9% { fill-opacity: 1; }
+    97%, 100% { fill-opacity: 0; }
+  }
+  @keyframes c5 {
+    0%, 42.727% { transform: scaleX(1); animation-timing-function: steps(65, end); }
+    50.909%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c5 { animation-name: c5; }
+  @keyframes c6 {
+    0%, 54.545% { transform: scaleX(1); animation-timing-function: steps(20, end); }
+    60.909%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c6 { animation-name: c6; }
+  @keyframes p6 {
+    0%, 54.535% { fill-opacity: 0; }
+    54.545%, 96.9% { fill-opacity: 1; }
+    97%, 100% { fill-opacity: 0; }
+  }
+  @keyframes c7 {
+    0%, 63.636% { transform: scaleX(1); animation-timing-function: steps(40, end); }
+    70.455%, 96.9% { transform: scaleX(0); }
+    97%, 100% { transform: scaleX(1); }
+  }
+  #c7 { animation-name: c7; }</style>
+  <defs>
+    <clipPath id="ventana"><rect width="860" height="460" rx="14"/></clipPath>
+    <linearGradient id="brillo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c2330"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+  </defs>
+  <g clip-path="url(#ventana)">
+    <rect width="860" height="460" fill="#0d1117"/>
+    <rect width="860" height="46" fill="url(#brillo)"/>
+    <rect y="46" width="860" height="1" fill="#30363d"/>
+    <circle cx="28" cy="23" r="7" fill="#ff5f56"/>
+    <circle cx="52" cy="23" r="7" fill="#ffbd2e"/>
+    <circle cx="76" cy="23" r="7" fill="#27c93f"/>
+    <text x="430" y="28" text-anchor="middle" fill="#8b949e" style="font-size:13px">nahuelje@github: ~/README.md</text>
+    <text x="30" y="96"><tspan class="pr" style="animation-name:p0" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </tspan><tspan fill="#e6edf3" textLength="57.6" lengthAdjust="spacing">whoami</tspan></text>
+<rect id="c0" class="cubre" x="212.4" y="76" width="64" height="28" fill="#0d1117"/>
+<text x="30" y="136" fill="#e6edf3" textLength="518.4" lengthAdjust="spacing">Nahuel Jesus - Full Stack &amp; Machine Learning Developer</text>
+<rect id="c1" class="cubre" x="30.0" y="116" width="525" height="28" fill="#0d1117"/>
+<text x="30" y="176"><tspan class="pr" style="animation-name:p2" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </tspan><tspan fill="#e6edf3" textLength="134.4" lengthAdjust="spacing">cat status.txt</tspan></text>
+<rect id="c2" class="cubre" x="212.4" y="156" width="141" height="28" fill="#0d1117"/>
+<text x="30" y="216" fill="#58a6ff" textLength="624.0" lengthAdjust="spacing">Freelancer | Argentina, Misiones | learning robotics with Arduino</text>
+<rect id="c3" class="cubre" x="30.0" y="196" width="630" height="28" fill="#0d1117"/>
+<text x="30" y="256"><tspan class="pr" style="animation-name:p4" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </tspan><tspan fill="#e6edf3" textLength="96.0" lengthAdjust="spacing">ls ~/stack</tspan></text>
+<rect id="c4" class="cubre" x="212.4" y="236" width="102" height="28" fill="#0d1117"/>
+<text x="30" y="296" fill="#d2a8ff" textLength="624.0" lengthAdjust="spacing">Python  Java  C#  JavaScript  TypeScript  React  SQL  Spring Boot</text>
+<rect id="c5" class="cubre" x="30.0" y="276" width="630" height="28" fill="#0d1117"/>
+<text x="30" y="336"><tspan class="pr" style="animation-name:p6" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </tspan><tspan fill="#e6edf3" textLength="192.0" lengthAdjust="spacing">git log --oneline -1</tspan></text>
+<rect id="c6" class="cubre" x="212.4" y="316" width="198" height="28" fill="#0d1117"/>
+<text x="30" y="376" fill="#7ee787" textLength="384.0" lengthAdjust="spacing">a1b2c3d building something new every day</text>
+<rect id="c7" class="cubre" x="30.0" y="356" width="390" height="28" fill="#0d1117"/>
+<g class="cursor-bloque">
+  <text x="30" y="416" fill="#00ff9c" font-weight="700" textLength="182.4" lengthAdjust="spacing">nahuelje@github:~$ </text>
+  <rect class="cursor" x="214.4" y="400" width="10" height="20" fill="#00ff9c"/>
+</g>
+  </g>
+  <rect x="0.5" y="0.5" width="859" height="459" rx="14" fill="none" stroke="#30363d"/>
+</svg>
