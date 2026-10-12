@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/header.svg" alt="Nahuel Jesus - Java Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nahuelje/Nahuelje/main/assets/header.svg" alt="Nahuel Jesus - Java Web Developer" width="100%" />
 </p>
 
 <!-- Terminal animada: el archivo vive en este mismo repositorio -->
@@ -11,7 +11,7 @@
 <!-- Roles rotativos -->
 <p align="center">
   <a href="https://github.com/Nahuelje">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&height=40&lines=Systems+Analyst+Student;Full+Stack+Java+Developer;Machine+Learning+Enthusiast;Always+learning+new+things" alt="Roles: Systems Analyst Student, Full Stack Java Developer, Machine Learning Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&height=40&lines=Systems+Analyst+Student;Java+Web+Developer;Full+Stack+Developer;Always+learning+new+things" alt="Roles: Systems Analyst Student, Java Web Developer, Full Stack Developer" />
   </a>
 </p>
 
@@ -34,11 +34,11 @@ SYSTEM.INFO
 ────────────────────────────────────────────────────────────────
 name:       Nahuel Jesus
 handle:     "@Nahuelje"
-role:       Self-taught Full Stack Developer · Machine Learning Developer
+role:       Self-taught Java Web Developer · Full Stack Developer
 status:     Freelancer
 location:   Argentina, Misiones
 languages:  Python, Java, C#, JavaScript, React, TypeScript, SQL, CSS, Spring Boot
-focus:      Full Stack Machine Learning application development
+focus:      Java web application development (Full Stack)
 interests:  Data Science, Artificial Intelligence, Robotics, Arduino, Games
 learning:   Robotics and building projects with Arduinos
 ```
